@@ -3,9 +3,9 @@ entries:
   chart-backend:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-03T11:29:20.350379975+07:00"
+    created: "2020-04-06T16:46:22.640567142+07:00"
     description: A Helm chart for Backend
-    digest: 2faaf3ac603dd2f479d472edb84b905af3b76104000256cc0470ea8a8247e01b
+    digest: c8cbc6c2d14217450c2621be21f46921a48a15f0b183a411059e30aad8a13f25
     name: chart-backend
     urls:
     - chart-backend-0.1.0.tgz
@@ -13,11 +13,11 @@ entries:
   chart-external:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-03T11:29:20.350582758+07:00"
+    created: "2020-04-06T16:46:22.640989037+07:00"
     description: A Helm chart for external service using endpoint resource on k8s
     digest: c6ff6141e9a87356eb854da1d48b29d640bfd1c010359be4c48bb55dbd319ddc
     name: chart-external
     urls:
     - chart-external-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-03T11:29:20.349897111+07:00"
+generated: "2020-04-06T16:46:22.62529678+07:00"
